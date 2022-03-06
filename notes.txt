@@ -1,0 +1,6 @@
+exercises
+
+2.1 -lists
+2.2 - list
+2.3 - array
+2.4 - everything needs to be shifted. so use linked list to signup and convert to array and sort it
