@@ -5,3 +5,5 @@ exercises
 2.3 - array
 2.4 - everything needs to be shifted. so use linked list to signup and convert to array and sort it
 2.5 - would be faster since insert to array by digit but slower ready for linked list
+
+3.1 - greet2 is currently being called from greet
