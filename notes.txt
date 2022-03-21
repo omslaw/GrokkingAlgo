@@ -7,3 +7,11 @@ exercises
 2.5 - would be faster since insert to array by digit but slower ready for linked list
 
 3.1 - greet2 is currently being called from greet
+3.2 - continues until memory fills up infinite loop
+
+
+4.4 base is 1 or two items === wrong still just one and bin search on half and throw the other half away
+4.5 O(n)  === correct
+4.6 O(n2) === incorrect still O(n)
+4.7 O(n + n) === incorrect still O(n)
+4.8 O(n * n) === incorret O(1)
