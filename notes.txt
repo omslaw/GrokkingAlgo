@@ -15,3 +15,8 @@ exercises
 4.6 O(n2) === incorrect still O(n)
 4.7 O(n + n) === incorrect still O(n)
 4.8 O(n * n) === incorret O(1)
+
+5.1 consistent
+5.2 no = incorrect
+5.3 consis = incorrect
+5.4 no = incorrect
